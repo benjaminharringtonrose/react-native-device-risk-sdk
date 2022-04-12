@@ -3,7 +3,7 @@ import * as React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
 import { multiply } from 'react-native-device-risk-sdk';
 
-export default function App() {
+export const App: React.FC<any> = () => {
   const [result, setResult] = React.useState<number | undefined>();
 
   React.useEffect(() => {
@@ -15,7 +15,7 @@ export default function App() {
       <Text>Result: {result}</Text>
     </View>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
