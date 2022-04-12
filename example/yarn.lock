@@ -3511,10 +3511,10 @@ react-is@^16.12.0, react-is@^16.13.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-device-risk-sdk@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-device-risk-sdk/-/react-native-device-risk-sdk-0.1.1.tgz#bb42102f90c7fa78dc8b6f6a665015118ad388c7"
-  integrity sha512-lcvJGz52TLvjP1yAhWvTV6+iVR6s9Yj9lVahE1f+TbI6u0FJJj7/TiO5iAaAJ5epxs7DKWdZq5/j+Tg9Wo5Vaw==
+react-native-device-risk-sdk@0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-device-risk-sdk/-/react-native-device-risk-sdk-0.1.2.tgz#cc0d5e65701d1f889af97520ca1e72c4a60cd46f"
+  integrity sha512-n/0UTsbzknJEydbqdwQ8odqkKexlWPo39bPej8sd3W1NM5yssSfNQIXPlbf3g3Lv9Tl2bee66gUe7cdh4nA8wQ==
 
 react-native@0.63.4:
   version "0.63.4"

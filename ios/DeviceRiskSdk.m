@@ -1,5 +1,5 @@
 #import "DeviceRiskSdk.h"
-@import FraudForce;
+#import "Frameworks/FraudForce/FraudForce.xcframework/ios-arm64/FraudForce.framework/Headers/FraudForce.h"
 
 @implementation DeviceRiskSdk
 
