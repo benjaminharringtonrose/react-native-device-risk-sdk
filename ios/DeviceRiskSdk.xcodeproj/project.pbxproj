@@ -11,6 +11,7 @@
 		D93D872F2805B82500528578 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D93D872E2805B82500528578 /* CoreTelephony.framework */; };
 		D93D87312805B84000528578 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D93D87302805B84000528578 /* Security.framework */; };
 		D93D87332805B85900528578 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D93D87322805B85900528578 /* SystemConfiguration.framework */; };
+		D93D873D2805DFAF00528578 /* DeviceRiskSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = B3E7B5891CC2AC0600A0062D /* DeviceRiskSdk.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -136,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D93D873D2805DFAF00528578 /* DeviceRiskSdk.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
